@@ -1,2 +1,2 @@
 # shop365
-Current Project
+E-Commerce solution Current Project
